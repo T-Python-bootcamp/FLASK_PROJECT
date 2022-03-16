@@ -11,6 +11,6 @@
 ### blog posts should be saved to a database . Use sqlalechemy and postgresql . 
 ### Only logged in user can create a new post.
 ### The website should have a nice user interface with naviagation at the top and a footer , use templates and template inheritance with css/js to make it look good (you can use a css framework such as bootstrap)
-### Each post have a title , content, feature image,  creation date , and category.
+### Each post have a title , content,  creation date , and category.
 ### organize your code inside relevant/meaningful folders , use flask blueprints. 
 ### Bonus : User is able to upload images and add them for a blog post. 
