@@ -8,7 +8,7 @@
 - edit : to edit a blog post.
 - Login / Signup
 
-### blog posts should be saved to a database . Use sqlalechemy and postgresql . 
+### blog posts should be saved to a database . Use sqlalchemy and postgresql . 
 ### Only logged in user can create a new post.
 ### The website should have a nice user interface with naviagation at the top and a footer , use templates and template inheritance with css/js to make it look good (you can use a css framework such as bootstrap)
 ### Each post have a title , content,  creation date , and category.
